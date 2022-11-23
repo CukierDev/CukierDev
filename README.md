@@ -1,5 +1,4 @@
 ## About me
 
-idk what to put here
+### I'm CEO of Object Studios
 
-I like sugar btw
