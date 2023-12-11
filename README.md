@@ -2,21 +2,7 @@
 
 <div align="center">
 
-  <code>
-    function main() {
-  var message = [
-    "Hi there!",
-    "You probably won't read this.",
-    "I guess I was wrong.",
-  ]
-
-  for (var i = 0; i++;) {
-    console.log(message[i])
-  }
-} 
-
-main()
-  </code>
+  <img src="image.png"></img>
   
 </div>
 
