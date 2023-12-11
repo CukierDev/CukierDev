@@ -1,6 +1,24 @@
 # Hi I'm Cukier 👋
 
-<img src="image.png" align="center"></img>
+<div align="center">
+
+  <code>
+    function main() {
+  var message = [
+    "Hi there!",
+    "You probably won't read this.",
+    "I guess I was wrong.",
+  ]
+
+  for (var i = 0; i++;) {
+    console.log(message[i])
+  }
+} 
+
+main()
+  </code>
+  
+</div>
 
 ## About me
 I'm Cukier. A javascript & godot game developer and a student. I'm working on my biggest project: FreedomBrowser. I don't have much to say here but you probably want to see my repositories down there 👇
