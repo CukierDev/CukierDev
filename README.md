@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi I'm Cukier 👋
 
 ## About me
@@ -11,5 +9,10 @@ I'm Cukier. A javascript & godot game developer and a student. I'm working on my
 - Game develepment using godot
 - cheese
 
+<div align="center">
+
+Visitor count  
+
 ![Visitor Count](https://profile-counter.glitch.me/{CukierDev}/count.svg)
+
 </div>
