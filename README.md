@@ -1,5 +1,7 @@
 # Hi I'm Cukier 👋
 
+<img src="image.png" align="center"></img>
+
 ## About me
 I'm Cukier. A javascript & godot game developer and a student. I'm working on my biggest project: FreedomBrowser. I don't have much to say here but you probably want to see my repositories down there 👇
 
