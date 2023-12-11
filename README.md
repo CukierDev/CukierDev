@@ -5,4 +5,4 @@ My discord: cukierdev
 
 Contact me if you want :)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{CukierDev}/count.svg)
