@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="image.png"></img>
+  <img src="banner.png"></img>
   
 </div>
 
